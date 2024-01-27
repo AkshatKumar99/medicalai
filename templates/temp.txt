@@ -1,0 +1,11 @@
+
+For the following question, return Yes or No for each specified field. Return only a json demarcated by ``` and no other text. No preamble.
+
+The question is:
+```{question}```
+
+The answer choices are:
+```{answers}```
+
+Follow the following directions very carefully and only return a json file and no other text:
+{format_instructions}

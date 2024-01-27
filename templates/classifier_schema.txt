@@ -1,0 +1,11 @@
+Repro?; a string value of 'yes' or 'no' depending on if the question is about the reproductive system.; string
+
+Obgyn?; a string value of 'yes' or 'no' depending on if the question deals with the medical field of obstetrics and gynecology.; string
+
+contraception; a string value of 'yes' or 'no' depending on if the question deals with contraception.; string
+
+bcam; a string value of 'yes' or 'no' depending on if the question deals with the breast cancer or adnexal masses.; string
+
+sti; a string value of 'yes' or 'no' depending on if the question deals with sexually transmitted diseases.; string
+
+preg; a string value of 'yes' or 'no' depending on if the question deals with the effects of pregnancy on organ systems.; string
